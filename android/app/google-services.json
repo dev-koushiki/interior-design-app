@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030401473400",
+    "project_id": "archinest-5d0b7",
+    "storage_bucket": "archinest-5d0b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030401473400:android:2616aa4ad529cecfd4668d",
+        "android_client_info": {
+          "package_name": "com.interiordesign.interior_design_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA5slu3T8R6poNsBU1GxsZaD6L6-DJqHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

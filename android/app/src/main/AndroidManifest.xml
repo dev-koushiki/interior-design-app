@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="interior_design_app"
+        android:label="ArchiNest"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
